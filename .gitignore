@@ -1,0 +1,5 @@
+**/target/
+.m2/
+tmp/
+*.zip
+__pycache__/
